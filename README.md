@@ -1,2 +1,2 @@
-# Course-of-Blue-bridge
+# 2B
 The code is what I learn from Bluebridge
